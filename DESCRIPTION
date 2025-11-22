@@ -17,3 +17,5 @@ Imports:
     randomForest
 Suggests:
     utils
+URL: https://github.com/Ci-yo/geneTMEpredict
+BugReports: https://github.com/Ci-yo/geneTMEpredict/issues
