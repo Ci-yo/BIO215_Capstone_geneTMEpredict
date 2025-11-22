@@ -1,0 +1,19 @@
+Package: geneTMEpredict
+Type: Package
+Title: Random Forest Predictor for Tumor Microenvironment Cell Types and Disease Status
+Version: 1.0.0
+Authors@R: person("Xiyao", "Chen", email = "Xiyao.Chen22@student.xjtlu.edu.cn",
+                  role = c("aut", "cre"))
+Description: Provides pre-trained random forest models to predict
+    single-cell tumor microenvironment cell types (Cancer, T_Cell,
+    Fibroblast) and disease status (Tumor vs Healthy_Control)
+    from synthetic gene-expression data.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.3
+Depends: R (>= 3.5.0)
+Imports:
+    randomForest
+Suggests:
+    utils
