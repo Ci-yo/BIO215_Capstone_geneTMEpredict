@@ -2,7 +2,7 @@ Package: geneTMEpredict
 Type: Package
 Title: Random Forest Predictor for Tumor Microenvironment Cell Types and Disease Status
 Version: 1.0.0
-Authors@R: person("Xiyao", "Chen", email = "Xiyao.Chen22@student.xjtlu.edu.cn",
+Authors@R: person("Xiyao", "Chen", email = "Ci-yo@users.noreply.github.com",
                   role = c("aut", "cre"))
 Description: Provides pre-trained random forest models to predict
     single-cell tumor microenvironment cell types (Cancer, T_Cell,
@@ -17,5 +17,5 @@ Imports:
     randomForest
 Suggests:
     utils
-URL: https://github.com/Ci-yo/geneTMEpredict
-BugReports: https://github.com/Ci-yo/geneTMEpredict/issues
+URL: https://github.com/Ci-yo/BIO215_Capstone_geneTMEpredict
+BugReports: https://github.com/Ci-yo/BIO215_Capstone_geneTMEpredict/issues

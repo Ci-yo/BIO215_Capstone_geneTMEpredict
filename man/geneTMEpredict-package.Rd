@@ -11,7 +11,7 @@ tumor microenvironment cell types and disease status from synthetic
 gene-expression data.
 }
 \author{
-\strong{Maintainer}: Xiyao Chen \email{Xiyao.Chen22@student.xjtlu.edu.cn}
+\strong{Maintainer}: Xiyao Chen \email{Ci-yo@users.noreply.github.com}
 
 }
 \keyword{internal}
